@@ -1,1 +1,1 @@
-# sift_alignment_python
+### Testing SIFT alignment of Tiff stacks in Python
